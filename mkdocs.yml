@@ -1,0 +1,35 @@
+site_name: Starfinder Lore
+nav:
+  - Таймлайн: timeline.md
+  - Лор: 
+    - Расы:
+      - Люди: lore/races/human.md
+      - Андроиды: lore/races/android.md
+      - Йсоки: lore/races/ysoki.md
+      - Лашунта: lore/races/lashunta.md
+      - Вески: lore/races/vesk.md
+    - Правительства:
+      - Космическая Федерация: lore/governments/space-federation.md
+      - Лашунта: lore/governments/lashunta.md
+      - Вески: lore/governments/vesk.md
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+extra_css:
+  - css/extra.css
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
