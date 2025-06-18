@@ -5,7 +5,7 @@ nav:
     - Расы:
       - Подрасы (Наследия):
         - Борай: lore/races/heritages/borai.md
-          Присмени: lore/races/heritages/prismeni.md
+        - Присмени: lore/races/heritages/prismeni.md
       - Андроиды: lore/races/android.md
       - Астразоаны: lore/races/astrazoan.md
       - Вески: lore/races/vesk.md
