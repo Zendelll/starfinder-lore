@@ -1,33 +1,32 @@
 site_name: Starfinder Lore
 nav:
   - Таймлайн: timeline.md
-  - Лор: 
-    - Расы:
-      - Подрасы (Наследия):
-        - Борай: lore/races/heritages/borai.md
-        - Присмени: lore/races/heritages/prismeni.md
-      - Андроиды: lore/races/android.md
-      - Астразоаны: lore/races/astrazoan.md
-      - Вески: lore/races/vesk.md
-      - Влака: lore/races/vlaka.md
-      - Дракониды: lore/races/dragonkin.md
-      - Йсоки: lore/races/ysoki.md
-      - Кало: lore/races/kalo.md
-      - Касатха: lore/races/kasatha.md
-      - Контемплативы: lore/races/contemplative.md
-      - Лашунта: lore/races/lashunta.md
-      - Люди: lore/races/human.md
-      - Пахтра: lore/races/pahtra.md
-      - Сарcесианы: lore/races/sarcesian.md
-      - Скиттермандеры: lore/races/skittermander.md
-      - Ширрены: lore/races/shirren.md
-    - Правительства:
-      - Космическая Федерация: lore/governments/space-federation.md
-      - Лашунта: lore/governments/lashunta.md
-      - Вески: lore/governments/vesk.md
-    - Разное:
-      - Языки: lore/other/languages.md
-      - Божества: lore/other/deities.md
+  - Расы:
+    - Подрасы (Наследия):
+      - Борай: lore/races/heritages/borai.md
+      - Присмени: lore/races/heritages/prismeni.md
+    - Андроиды: lore/races/android.md
+    - Астразоаны: lore/races/astrazoan.md
+    - Вески: lore/races/vesk.md
+    - Влака: lore/races/vlaka.md
+    - Дракониды: lore/races/dragonkin.md
+    - Йсоки: lore/races/ysoki.md
+    - Кало: lore/races/kalo.md
+    - Касатха: lore/races/kasatha.md
+    - Контемплативы: lore/races/contemplative.md
+    - Лашунта: lore/races/lashunta.md
+    - Люди: lore/races/human.md
+    - Пахтра: lore/races/pahtra.md
+    - Сарcесианы: lore/races/sarcesian.md
+    - Скиттермандеры: lore/races/skittermander.md
+    - Ширрены: lore/races/shirren.md
+  - Правительства:
+    - Космическая Федерация: lore/governments/space-federation.md
+    - Лашунта: lore/governments/lashunta.md
+    - Вески: lore/governments/vesk.md
+  - Разное:
+    - Языки: lore/other/languages.md
+    - Божества: lore/other/deities.md
 theme:
   name: material
   palette:
