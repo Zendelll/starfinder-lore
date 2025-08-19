@@ -2,6 +2,8 @@ site_name: Starfinder Lore
 site_url: https://zendelll.github.io/starfinder-lore/
 nav:
   - Таймлайн: timeline.md
+  - Карта: map.md
+  - Частые вопросы: index.md
   - Расы:
     - Многочисленные:
       - Андроиды: lore/races/android.md
@@ -43,7 +45,6 @@ nav:
       - Ксено-хранители: lore/factions/xenowardens.md
   - Разное:
     - Языки: lore/other/languages.md
-    - Божества: lore/other/deities.md
 theme:
   name: material
   palette:
