@@ -1,0 +1,1 @@
+![Карта](images/GlaxyMap.webp)
