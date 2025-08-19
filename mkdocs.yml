@@ -1,4 +1,5 @@
 site_name: Starfinder Lore
+site_url: https://zendelll.github.io/starfinder-lore/
 nav:
   - Таймлайн: timeline.md
   - Расы:
