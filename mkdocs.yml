@@ -43,8 +43,6 @@ nav:
       - Рыцари Иомедеи: lore/factions/knights-of-iomedae.md
       - Общество Искателей Звезд: lore/factions/starfinder-society.md
       - Ксено-хранители: lore/factions/xenowardens.md
-  - Разное:
-    - Языки: lore/other/languages.md
 theme:
   name: material
   palette:
