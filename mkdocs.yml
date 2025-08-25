@@ -5,6 +5,7 @@ nav:
   - Карта: map.md
   - Частые вопросы: index.md
   - Расы:
+    - Краткое Описание: lore/races/index.md
     - Многочисленные:
       - Андроиды: lore/races/android.md
       - Вески: lore/races/vesk.md
