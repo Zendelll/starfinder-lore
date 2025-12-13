@@ -45,6 +45,7 @@ nav:
       - Рыцари Иомедеи: lore/factions/knights-of-iomedae.md
       - Общество Искателей Звезд: lore/factions/starfinder-society.md
       - Ксено-хранители: lore/factions/xenowardens.md
+      - Клеймо Свободы: lore/factions/brand-of-freedom.md
 theme:
   name: material
   palette:
