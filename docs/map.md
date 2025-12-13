@@ -1,1 +1,1 @@
-![Карта](images/GlaxyMap.webp)
+![Карта](images/Galaxy_new.webp)
