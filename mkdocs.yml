@@ -3,7 +3,6 @@ site_url: https://zendelll.github.io/starfinder-lore/
 nav:
   - Таймлайн: timeline.md
   - Карта: map.md
-  - Частые вопросы: index.md
   - Расы:
     - Краткое Описание: lore/races/index.md
     - Многочисленные:
@@ -46,6 +45,23 @@ nav:
       - Общество Искателей Звезд: lore/factions/starfinder-society.md
       - Ксено-хранители: lore/factions/xenowardens.md
       - Клеймо Свободы: lore/factions/brand-of-freedom.md
+  - Системы:
+    - Космическая Федерация:
+      - Люди:
+        - Солнце: lore/systems/space-federation/human/sun.md
+        - Альфа-Центавра: lore/systems/space-federation/human/alpha-centauri.md
+        - Баззанак: lore/systems/space-federation/human/buzzanak.md
+        - Венкворт: lore/systems/space-federation/human/wenkvort.md
+        - Вермиллион: lore/systems/space-federation/human/vermillion.md
+        - Вистрал: lore/systems/space-federation/human/vistral.md
+        - Луо: lore/systems/space-federation/human/luo.md
+        - Сириус: lore/systems/space-federation/human/sirius.md
+        - HX-2247: lore/systems/space-federation/human/hx-2247.md
+      - Йсоки:
+        - Цевант: lore/systems/space-federation/ysoki/cevant.md
+      - Андроиды:
+        - Хестверн: lore/systems/space-federation/android/hestvern.md
+  - Частые вопросы: index.md
 theme:
   name: material
   palette:
